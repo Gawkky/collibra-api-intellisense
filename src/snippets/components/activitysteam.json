@@ -1,0 +1,9 @@
+{
+    "Import ActivityStreamApi": {
+        "prefix": "importActivityStreamApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.activitystream.ActivityStreamApi"
+        ],
+        "description": "Imports the ActivityStreamApi from the Collibra API."
+    }
+}

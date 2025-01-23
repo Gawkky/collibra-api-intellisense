@@ -1,0 +1,9 @@
+{
+    "Import RoleApi": {
+        "prefix": "importRoleApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.role.RoleApi"
+        ],
+        "description": "Imports the RoleApi from the Collibra API."
+    }
+}

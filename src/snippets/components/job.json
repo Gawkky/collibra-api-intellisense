@@ -1,0 +1,9 @@
+{
+    "import JobApi": {
+        "prefix": "importJobApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.job.JobApi"
+        ],
+        "description": "Imports the JobApi from the Collibra API."
+    }
+}

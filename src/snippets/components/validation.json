@@ -1,0 +1,9 @@
+{
+    "Import ValidationApi": {
+        "prefix": "importValidationApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.validation.ValidationApi"
+        ],
+        "description": "Imports the ValidationApi from the Collibra API."
+    }
+}

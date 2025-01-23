@@ -1,0 +1,9 @@
+{
+    "Import DiagramPictureApi": {
+        "prefix": "importDiagramPictureApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.diagram.DiagramPictureApi"
+        ],
+        "description": "Imports the DiagramPictureApi from the Collibra API."
+    }
+}

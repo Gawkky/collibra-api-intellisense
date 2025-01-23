@@ -1,0 +1,9 @@
+{
+    "Import SamlApi": {
+        "prefix": "importSamlApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.security.saml.SamlApi"
+        ],
+        "description": "Imports the SamlApi from the Collibra API."
+    }
+}

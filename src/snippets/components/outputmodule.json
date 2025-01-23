@@ -1,0 +1,9 @@
+{
+    "Import OutputModuleApi": {
+        "prefix": "importOutputModuleApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.query.outputmodule.OutputModuleApi"
+        ],
+        "description": "Imports the OutputModuleApi from the Collibra API."
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "Import DataQualityRuleApi": {
+        "prefix": "importDataQualityRuleApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.quality.DataQualityRuleApi"
+        ],
+        "description": "Imports the DataQualityApi from the Collibra API."
+    }
+}

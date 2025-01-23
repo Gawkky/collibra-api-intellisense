@@ -1,0 +1,9 @@
+{
+    "Import BreadcrumbApi": {
+        "prefix": "importBreadcrumbApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.breadcrumb.BreadcrumbApi"
+        ],
+        "description": "Imports the BreadcrumbApi from the Collibra API."
+    }
+}

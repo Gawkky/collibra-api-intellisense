@@ -1,0 +1,23 @@
+{
+    "Import AssignmentApi": {
+        "prefix": "importAssignmentApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.assignment.AssignmentApi"
+        ],
+        "description": "Imports the AssignmentApi from the Collibra API."
+    },
+    "Import ScopeApi": {
+        "prefix": "importScopeApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.assignment.ScopeApi"
+        ],
+        "description": "Imports the ScopeApi from the Collibra API."
+    },
+    "Import TraitAssignmentApi": {
+        "prefix": "importTraitAssignmentApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.assignment.TraitAssignmentApi"
+        ],
+        "description": "Imports the TraitAssignmentApi from the Collibra API."
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "Import LoggerApi": {
+        "prefix": "importLoggerApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.logger.LoggerApi"
+        ],
+        "description": "Imports the LoggerApi from the Collibra API."
+    }
+}

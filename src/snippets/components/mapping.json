@@ -1,0 +1,9 @@
+{
+    "Import MappingApi": {
+        "prefix": "importMappingApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.mapping.MappingApi"
+        ],
+        "description": "Imports the MappingApi from the Collibra API."
+    }
+}

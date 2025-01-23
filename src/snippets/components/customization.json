@@ -1,0 +1,9 @@
+{
+    "Import CustomizationApi": {
+        "prefix": "importCustomizationApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.customization.CustomizationApi"
+        ],
+        "description": "Imports the CustomizationApi from the Collibra API."
+    }
+}

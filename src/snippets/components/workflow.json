@@ -1,0 +1,23 @@
+{
+    "Import WorkflowDefinitionApi": {
+        "prefix": "importWorkflowDefinitionApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.workflow.WorkflowDefinitionApi"
+        ],
+        "description": "Imports the WorkflowDefinitionApi from the Collibra API."
+    },
+    "Import WorkflowInstanceApi": {
+        "prefix": "importWorkflowInstanceApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.workflow.WorkflowInstanceApi"
+        ],
+        "description": "Imports the WorkflowInstanceApi from the Collibra API."
+    },
+    "Import WorkflowTaskApi": {
+        "prefix": "importWorkflowTaskApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.workflow.WorkflowTaskApi"
+        ],
+        "description": "Imports the WorkflowTaskApi from the Collibra API."
+    }
+}

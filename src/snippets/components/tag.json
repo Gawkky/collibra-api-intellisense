@@ -1,0 +1,9 @@
+{
+    "Import TagApi": {
+        "prefix": "importTagApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.tag.TagApi"
+        ],
+        "description": "Imports the TagApi from the Collibra API."
+    }
+}

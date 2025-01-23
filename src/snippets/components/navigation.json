@@ -1,0 +1,9 @@
+{
+    "Import NavigationStatisticsApi": {
+        "prefix": "importNavigationStatisticsApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.navigation.NavigationStatisticsApi"
+        ],
+        "description": "Imports the NavigationStatisticsApi from the Collibra API."
+    }
+}

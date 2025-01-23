@@ -1,0 +1,9 @@
+{
+    "Import UserGroupApi": {
+        "prefix": "importUserGroupApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.usergroup.UserGroupApi"
+        ],
+        "description": "Imports the UserGroupApi from the Collibra API."
+    }
+}

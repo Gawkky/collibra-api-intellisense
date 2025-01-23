@@ -1,0 +1,79 @@
+{
+    "Import AssetApi": {
+        "prefix": "importAssetApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.instance.AssetApi"
+        ],
+        "description": "Imports the AssetApi from the Collibra API."
+    },
+    "Import AttachmentApi": {
+        "prefix": "importAttachmentApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.instance.AttachmentApi"
+        ],
+        "description": "Imports the AttachmentApi from the Collibra API."
+    },
+    "Import AttributeApi": {
+        "prefix": "importAttributeApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.instance.AttributeApi"
+        ],
+        "description": "Imports the AttributeApi from the Collibra API."
+    },
+    "Import CommentApi": {
+        "prefix": "importCommentApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.instance.CommentApi"
+        ],
+        "description": "Imports the CommentApi from the Collibra API."
+    },
+    "Import CommunityApi": {
+        "prefix": "importCommunityApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.instance.CommunityApi"
+        ],
+        "description": "Imports the CommunityApi from the Collibra API."
+    },
+    "Import ComplexRelationApi": {
+        "prefix": "importComplexRelationApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.instance.ComplexRelationApi"
+        ],
+        "description": "Imports the ComplexRelationApi from the Collibra API."
+    },
+    "Import DomainApi": {
+        "prefix": "importDomainApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.instance.DomainApi"
+        ],
+        "description": "Imports the DomainApi from the Collibra API."
+    },
+    "Import IssueApi": {
+        "prefix": "importIssueApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.instance.IssueApi"
+        ],
+        "description": "Imports the IssueApi from the Collibra API."
+    },
+    "Import RatingApi": {
+        "prefix": "importRatingApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.instance.RatingApi"
+        ],
+        "description": "Imports the RatingApi from the Collibra API."
+    },
+    "Import RelationApi": {
+        "prefix": "importRelationApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.instance.RelationApi"
+        ],
+        "description": "Imports the RelationApi from the Collibra API."
+    },
+    "Import ResponsibilityApi": {
+        "prefix": "importResponsibilityApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.instance.ResponsibilityApi"
+        ],
+        "description": "Imports the ResponsibilityApi from the Collibra API."
+    }
+}

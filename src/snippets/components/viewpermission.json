@@ -1,0 +1,9 @@
+{
+    "Import ViewPermissionApi": {
+        "prefix": "importViewPermissionApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.viewpermission.ViewPermissionApi"
+        ],
+        "description": "Imports the ViewPermissionApi from the Collibra API."
+    }
+}

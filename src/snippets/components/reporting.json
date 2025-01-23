@@ -1,0 +1,9 @@
+{
+    "Import ReportingApi": {
+        "prefix": "importReportingApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.reporting.ReportingApi"
+        ],
+        "description": "Imports the ReportingApi from the Collibra API."
+    }
+}

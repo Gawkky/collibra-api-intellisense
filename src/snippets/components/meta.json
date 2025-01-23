@@ -1,0 +1,51 @@
+{
+    "Import AssetTypeApi": {
+        "prefix": "importAssetTypeApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.meta.AssetTypeApi"
+        ],
+        "description": "Imports the AssetTypeApi from the Collibra API."
+    },
+    "AttributeTypeApi": {
+        "prefix": "importAttributeTypeApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.meta.AttributeTypeApi"
+        ],
+        "description": "Imports the AttributeTypeApi from the Collibra API."
+    },
+    "ComplexRelationTypeApi": {
+        "prefix": "importComplexRelationTypeApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.meta.ComplexRelationTypeApi"
+        ],
+        "description": "Imports the ComplexRelationTypeApi from the Collibra API."
+    },
+    "Import DomainTypeApi": {
+        "prefix": "importDomainTypeApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.meta.DomainTypeApi"
+        ],
+        "description": "Imports the DomainTypeApi from the Collibra API."
+    },
+    "Import RelationTypeApi": {
+        "prefix": "importRelationTypeApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.meta.RelationTypeApi"
+        ],
+        "description": "Imports the RelationTypeApi from the Collibra API."
+    },
+    "Import StatusApi": {
+        "prefix": "importStatusApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.meta.StatusApi"
+        ],
+        "description": "Imports the StatusApi from the Collibra API."
+    },
+    "Import TraitApi": {
+        "prefix": "importTraitApi",
+        "body": [
+            "import com.collibra.dgc.core.api.component.meta.TraitApi"
+        ],
+        "description": "Imports the TraitApi from the Collibra API."
+    }
+}
